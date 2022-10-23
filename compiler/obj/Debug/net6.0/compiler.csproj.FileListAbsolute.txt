@@ -1,0 +1,15 @@
+/absm_studio/calculator_program/compiler/bin/Debug/net6.0/compiler
+/absm_studio/calculator_program/compiler/bin/Debug/net6.0/compiler.deps.json
+/absm_studio/calculator_program/compiler/bin/Debug/net6.0/compiler.runtimeconfig.json
+/absm_studio/calculator_program/compiler/bin/Debug/net6.0/compiler.dll
+/absm_studio/calculator_program/compiler/bin/Debug/net6.0/compiler.pdb
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/compiler.csproj.AssemblyReference.cache
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/compiler.GeneratedMSBuildEditorConfig.editorconfig
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/compiler.AssemblyInfoInputs.cache
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/compiler.AssemblyInfo.cs
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/compiler.csproj.CoreCompileInputs.cache
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/compiler.dll
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/refint/compiler.dll
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/compiler.pdb
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/compiler.genruntimeconfig.cache
+/absm_studio/calculator_program/compiler/obj/Debug/net6.0/ref/compiler.dll
